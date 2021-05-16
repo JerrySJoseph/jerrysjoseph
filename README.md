@@ -1,10 +1,20 @@
 <p align="center"> <img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" alt="jerrysjoseph" /> </p>
 <h1 align="center">Hi 👋, I'm Jerry</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jerrysjoseph&label=Profile%20views&color=0e75b6&style=flat" alt="jerrysjoseph" /> </p>
+
+
+
 I am a software developer with experience in professional mobile and web application development. I am a developer of 5 android applications published in Google play store, author of 4 open-source libraries on Github, a successful freelancer with 20+ completed projects and author of several articles on Flutter, React and android published on Medium.
 
 
  ---
+ 
+![GitHub followers](https://img.shields.io/github/followers/jerrysjoseph?label=Followers&style=plastic)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/jerrysjoseph/jerrysjoseph/graphs/commit-activity)
+<img src="https://komarev.com/ghpvc/?username=jerrysjoseph&label=Profile%20views&color=0e75b6&style=flat" alt="jerrysjoseph" /> 
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+![GitHub last commit](https://img.shields.io/github/last-commit/jerrysjoseph/jerrysjoseph?style=plastic)
+![Website](https://img.shields.io/website?down_color=red&down_message=not%20active&label=Interactive%20resume&style=plastic&up_color=green&up_message=Active&url=https%3A%2F%2Fjerrysjoseph.github.io%2F)
+
 
 - 🔭 I’m currently working on [JS Cloud SDK](https://github.com/JerrySJoseph/JS-Cloud-SDK-Android) and learning **Flutter.**
 
@@ -81,7 +91,7 @@ You can check out my latest articles and blog posts [here](https://thedroidhub.c
 
 ## Connect with Me
 
-### My profiles 👨
+### Find My profiles at 👨
 <p align="left">
  <a href="https://www.linkedin.com/in/jerin-sebastian/" target="blank"><img align="center" src="https://emojis.slackmojis.com/emojis/images/1470343326/711/linkedin.png?1470343326" alt="jerin sebastian" height="30" /></a>
  <a href="https://www.linkedin.com/in/jerin-sebastian/" target="blank"><img align="center" src="https://emojis.slackmojis.com/emojis/images/1450319443/34/facebook.png?1450319443" alt="jerin sebastian" height="30" /></a>
