@@ -64,84 +64,30 @@ I usually write about new and emerging technologies in cloud and application dev
 
 You can check out my latest articles and blog posts [here](https://thedroidhub.com/blog/).
  
+## My Tech Stack
+
+| Domain  | Languages/Tools |
+| ------------- | ------------- |
+| Programming Languages  | <img src="https://emojis.slackmojis.com/emojis/images/1450733280/232/java.png?1450733280" alt="Java" width="40"/><img src="https://emojis.slackmojis.com/emojis/images/1496063955/2351/kotlin.png?1496063955" alt="Kotlin" width="40"/><img src="https://emojis.slackmojis.com/emojis/images/1535719209/4570/dartlang.png?1535719209" alt="Dart" width="40" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" /> <img src="https://emojis.slackmojis.com/emojis/images/1450441296/151/javascript.png?1450441296" alt="Javascript" width="40"/> <img src="https://emojis.slackmojis.com/emojis/images/1470343792/719/html5.png?1470343792" alt="HTML" width="40"/> <img src="https://emojis.slackmojis.com/emojis/images/1497185511/2411/css.jpg?1497185511" alt="CSS" width="40" /> <img src="https://emojis.slackmojis.com/emojis/images/1533423176/4416/php.png?1533423176" alt="PHP" width="40" /> <img src="https://emojis.slackmojis.com/emojis/images/1536563617/4638/c-lang.png?1536563617" alt="C" width="40" /> <img src="https://emojis.slackmojis.com/emojis/images/1450441296/151/javascript.png?1450441296" alt="Javascript" width="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/>|
+| Frameworks | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".Net" width="40"/>|
+| Database | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" />|
+| Cloud |  <img src="https://emojis.slackmojis.com/emojis/images/1533724346/4435/firebase.png?1533724346" alt="Firebase" width="40"/> <img src="https://emojis.slackmojis.com/emojis/images/1507180554/2988/aws.png?1507180554" alt="AWS" width="40" /> <img src="https://emojis.slackmojis.com/emojis/images/1465929657/511/heroku.png?1465929657" alt="Heroku" width="40"/> <img src="https://camo.githubusercontent.com/582944f6627732531ce1a2e20ad43538d1896e16a5f159ea28fd137dbb8e798a/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676f6f676c655f636c6f75642f676f6f676c655f636c6f75642d69636f6e2e737667" alt="Google Cloud" width="40" /> |
+| Dev-Ops | <img src="https://emojis.slackmojis.com/emojis/images/1501021339/341/git.png?1501021339" alt="Git" width="40"/> <img src="https://emojis.slackmojis.com/emojis/images/1450822151/257/github.png?1450822151" alt="MongoDB" width="40" /> |
+| Dev-tools | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40"/> <img src="https://emojis.slackmojis.com/emojis/images/1481862863/1491/kubernetes.png?1481862863" alt="Kubernetes" width="40" />  <img src="https://emojis.slackmojis.com/emojis/images/1537443399/4705/postman.png?1537443399" alt="Postman" width="40" /> |
+| Testing | <img src="https://camo.githubusercontent.com/4253eb6921d60a216772940978dea3a0cf2113f2f29b5545720d3b5b6960e467/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6d6f6368616a732f6d6f6368616a732d69636f6e2e737667" alt="Mocha" width="40"/> |
+| AI/ML | <img src="https://emojis.slackmojis.com/emojis/images/1487230631/1765/tensorflow.png?1487230631" alt="Tensorflow" width="40"/>|
+| Operating Systems | <img src="https://emojis.slackmojis.com/emojis/images/1551101669/5413/linux.png?1551101669" alt="Linux" width="40"/>  <img src="https://emojis.slackmojis.com/emojis/images/1504546221/2870/windows.png?1504546221" alt="Windows" width="40"/> |
+ 
+
 ## Connect with Me
+
+### My profiles 👨
 <p align="left">
  <a href="https://www.linkedin.com/in/jerin-sebastian/" target="blank"><img align="center" src="https://emojis.slackmojis.com/emojis/images/1470343326/711/linkedin.png?1470343326" alt="jerin sebastian" height="30" /></a>
  <a href="https://www.linkedin.com/in/jerin-sebastian/" target="blank"><img align="center" src="https://emojis.slackmojis.com/emojis/images/1450319443/34/facebook.png?1450319443" alt="jerin sebastian" height="30" /></a>
  <a href="https://www.linkedin.com/in/jerin-sebastian/" target="blank"><img align="center" src="https://emojis.slackmojis.com/emojis/images/1538663342/4762/medium.png?1538663342" alt="jerin sebastian" height="30" /></a>
 </p>
 
-
-
-## Languages and Tools
-<p align="left">
- <img src="https://emojis.slackmojis.com/emojis/images/1450733280/232/java.png?1450733280" alt="Java" width="40"/>
- <img src="https://emojis.slackmojis.com/emojis/images/1496063955/2351/kotlin.png?1496063955" alt="Kotlin" width="40"/>
- <img src="https://emojis.slackmojis.com/emojis/images/1535719209/4570/dartlang.png?1535719209" alt="Dart" width="40" />
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" /> 
- <img src="https://emojis.slackmojis.com/emojis/images/1450441296/151/javascript.png?1450441296" alt="Javascript" width="40"/>
- <img src="https://emojis.slackmojis.com/emojis/images/1470343792/719/html5.png?1470343792" alt="HTML" width="40"/>
- <img src="https://emojis.slackmojis.com/emojis/images/1497185511/2411/css.jpg?1497185511" alt="CSS" width="40" />
- <img src="https://emojis.slackmojis.com/emojis/images/1533423176/4416/php.png?1533423176" alt="PHP" width="40" />
- <img src="https://emojis.slackmojis.com/emojis/images/1536563617/4638/c-lang.png?1536563617" alt="C" width="40" />
- <img src="https://emojis.slackmojis.com/emojis/images/1450441296/151/javascript.png?1450441296" alt="Javascript" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/>
-</p>
-
-### Frameworks used
-<p align="left">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" />
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" /> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".Net" width="40"/>
-</p>
-
-### Database
-<p align="left">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" />
-</p>
-
-### Cloud systems
-<p align="left">
- <img src="https://emojis.slackmojis.com/emojis/images/1533724346/4435/firebase.png?1533724346" alt="Firebase" width="40"/>
- <img src="https://emojis.slackmojis.com/emojis/images/1507180554/2988/aws.png?1507180554" alt="AWS" width="40" />
- <img src="https://emojis.slackmojis.com/emojis/images/1465929657/511/heroku.png?1465929657" alt="Heroku" width="40"/>
- <img src="https://camo.githubusercontent.com/582944f6627732531ce1a2e20ad43538d1896e16a5f159ea28fd137dbb8e798a/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676f6f676c655f636c6f75642f676f6f676c655f636c6f75642d69636f6e2e737667" alt="Google Cloud" width="40" />
-</p>
-
-### Dev-Ops
-<p align="left">
- <img src="https://emojis.slackmojis.com/emojis/images/1501021339/341/git.png?1501021339" alt="Git" width="40"/>
- <img src="https://emojis.slackmojis.com/emojis/images/1450822151/257/github.png?1450822151" alt="MongoDB" width="40" />
-</p>
-
-
-### Dev-tools
-<p align="left">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40"/>
- <img src="https://emojis.slackmojis.com/emojis/images/1481862863/1491/kubernetes.png?1481862863" alt="Kubernetes" width="40" />
-  <img src="https://emojis.slackmojis.com/emojis/images/1537443399/4705/postman.png?1537443399" alt="Postman" width="40" />
-</p>
-
-### Testing Frameworks
-<p align="left">
- <img src="https://camo.githubusercontent.com/4253eb6921d60a216772940978dea3a0cf2113f2f29b5545720d3b5b6960e467/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6d6f6368616a732f6d6f6368616a732d69636f6e2e737667" alt="Mocha" width="40"/>
-</p>
-
-### AI/ML
-<p align="left">
- <img src="https://emojis.slackmojis.com/emojis/images/1487230631/1765/tensorflow.png?1487230631" alt="Tensorflow" width="40"/>
-</p>
-
-### Operating Systems
-<p align="left">
- <img src="https://emojis.slackmojis.com/emojis/images/1551101669/5413/linux.png?1551101669" alt="Linux" width="40"/>
-  <img src="https://emojis.slackmojis.com/emojis/images/1504546221/2870/windows.png?1504546221" alt="Windows" width="40"/>
-</p>
+### Drop me a mail at 📧
+[jerin.sebastian153@gmail.com](jerin.sebastian153@gmail.com)
 
