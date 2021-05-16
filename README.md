@@ -10,15 +10,15 @@ I am a software developer with experience in professional mobile and web applica
 
 - 👯 My latest project is [Helping Hands Android App](https://github.com/JerrySJoseph/Helping_Hands_Android_client)
 
-- 👨‍💻 Portfolio of my projects is available at [https://jerrysjoseph.github.io/#portfolio](https://jerrysjoseph.github.io/#portfolio)
+- 👨‍💻 A list of my projects is available at my [Interactive Resume](https://jerrysjoseph.github.io/#portfolio)
 
-- 📝 I regularly write articles on [https://thedroidhub.com/](https://thedroidhub.com/)
+- 📝 I regularly write articles on [The Droid Hub](https://thedroidhub.com/)
 
 - 💬 Ask me anything about **Android or Web development**
 
 - 📫 How to reach me **jerin.sebastian153@gmail.com**
 
-- 📄 Know about my experiences [https://jerrysjoseph.github.io/#resume](https://jerrysjoseph.github.io/#resume)
+- 📄 Wanna Know more about my experience and work, check [here](https://jerrysjoseph.github.io/#resume)
 
 - ⚡ Fun fact **I am building my own J.A.R.V.I.S**
 
