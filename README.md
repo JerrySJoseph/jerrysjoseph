@@ -1,9 +1,7 @@
 <p align="center"> <img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" alt="jerrysjoseph" /> </p>
 <h1 align="center">Hi 👋, I'm Jerry</h1>
 
-
-
-I am a software developer with experience in professional mobile and web application development. I am a developer of 5 android applications published in Google play store, author of 4 open-source libraries on Github, a successful freelancer with 20+ completed projects and author of several articles on Flutter, React and android published on Medium.
+I am a software developer with experience in professional **Android** and **Web application development**. I am a developer of **5 android applications** published in Google play store, author of **4 open-source libraries** on Github, a successful freelancer with **20+ completed projects** and author of several articles on **Flutter, React and android**.
 
 
  ---
