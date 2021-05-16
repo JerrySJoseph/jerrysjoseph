@@ -1,8 +1,8 @@
 <p align="center"> <img src="https://visme.co/blog/wp-content/uploads/2020/03/animation-software-header.gif" alt="jerrysjoseph" /> </p>
 <h1 align="center">Hi 👋, I'm Jerry</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jerrysjoseph&label=Profile%20views&color=0e75b6&style=flat" alt="jerrysjoseph" /> </p>
-<h3 align="left">I am a software developer with experience in professional mobile and web application development. I am a developer of 5 android applications published in Google play store, author of 4 open-source libraries on Github, a successful freelancer with 20+ completed projects and author of several articles on Flutter, React and android published on Medium.
-</h3>
+I am a software developer with experience in professional mobile and web application development. I am a developer of 5 android applications published in Google play store, author of 4 open-source libraries on Github, a successful freelancer with 20+ completed projects and author of several articles on Flutter, React and android published on Medium.
+
 
  ---
 
@@ -49,10 +49,20 @@
 - 🤓 An intermediate in **REACT** and **Next.js**.
 
  ---
- ## Interests
+ ## My Streaks
+ <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=jerrysjoseph&" alt="jerrysjoseph" /></p>
+ 
+ ## My Stats
+<p >
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jerrysjoseph&show_icons=true&locale=en&layout=compact" alt="jerrysjoseph" />
+&nbsp;<img  align="center" src="https://github-readme-stats.vercel.app/api?username=jerrysjoseph&show_icons=true&locale=en" alt="jerrysjoseph" /></p>
+ 
+ ## My Interests
 I write regular blog posts, most of which you will find on my personal website [The Droid Hub](https://thedroidhub.com) and [medium.com](https://medium.com/@jerin.sebastian153).
 
 I usually write about new and emerging technologies in cloud and application development. I also like creating detailed tutorials on basics and advanced application development in android.
+
+You can check out my latest articles and blog posts [here](https://thedroidhub.com/blog/).
  
 ## Connect with Me
 <p align="left">
@@ -61,7 +71,9 @@ I usually write about new and emerging technologies in cloud and application dev
  <a href="https://www.linkedin.com/in/jerin-sebastian/" target="blank"><img align="center" src="https://emojis.slackmojis.com/emojis/images/1538663342/4762/medium.png?1538663342" alt="jerin sebastian" height="30" /></a>
 </p>
 
-### Languages I use
+
+
+## Languages and Tools
 <p align="left">
  <img src="https://emojis.slackmojis.com/emojis/images/1450733280/232/java.png?1450733280" alt="Java" width="40"/>
  <img src="https://emojis.slackmojis.com/emojis/images/1496063955/2351/kotlin.png?1496063955" alt="Kotlin" width="40"/>
@@ -77,29 +89,59 @@ I usually write about new and emerging technologies in cloud and application dev
  <img src="https://emojis.slackmojis.com/emojis/images/1450441296/151/javascript.png?1450441296" alt="Javascript" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/>
 </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
- <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
- <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
- <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
- <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
- <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
- <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
- <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
- <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
- <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
- <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
- <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
- <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
- <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
- <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
- <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
- <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
- <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jerrysjoseph&show_icons=true&locale=en&layout=compact" alt="jerrysjoseph" /></p>
+### Frameworks used
+<p align="left">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" /> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".Net" width="40"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jerrysjoseph&show_icons=true&locale=en" alt="jerrysjoseph" /></p>
+### Database
+<p align="left">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jerrysjoseph&" alt="jerrysjoseph" /></p>
+### Cloud systems
+<p align="left">
+ <img src="https://emojis.slackmojis.com/emojis/images/1533724346/4435/firebase.png?1533724346" alt="Firebase" width="40"/>
+ <img src="https://emojis.slackmojis.com/emojis/images/1507180554/2988/aws.png?1507180554" alt="AWS" width="40" />
+ <img src="https://emojis.slackmojis.com/emojis/images/1465929657/511/heroku.png?1465929657" alt="Heroku" width="40"/>
+ <img src="https://camo.githubusercontent.com/582944f6627732531ce1a2e20ad43538d1896e16a5f159ea28fd137dbb8e798a/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676f6f676c655f636c6f75642f676f6f676c655f636c6f75642d69636f6e2e737667" alt="Google Cloud" width="40" />
+</p>
+
+### Dev-Ops
+<p align="left">
+ <img src="https://emojis.slackmojis.com/emojis/images/1501021339/341/git.png?1501021339" alt="Git" width="40"/>
+ <img src="https://emojis.slackmojis.com/emojis/images/1450822151/257/github.png?1450822151" alt="MongoDB" width="40" />
+</p>
+
+
+### Dev-tools
+<p align="left">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40"/>
+ <img src="https://emojis.slackmojis.com/emojis/images/1481862863/1491/kubernetes.png?1481862863" alt="Kubernetes" width="40" />
+  <img src="https://emojis.slackmojis.com/emojis/images/1537443399/4705/postman.png?1537443399" alt="Postman" width="40" />
+</p>
+
+### Testing Frameworks
+<p align="left">
+ <img src="https://camo.githubusercontent.com/4253eb6921d60a216772940978dea3a0cf2113f2f29b5545720d3b5b6960e467/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6d6f6368616a732f6d6f6368616a732d69636f6e2e737667" alt="Mocha" width="40"/>
+</p>
+
+### AI/ML
+<p align="left">
+ <img src="https://emojis.slackmojis.com/emojis/images/1487230631/1765/tensorflow.png?1487230631" alt="Tensorflow" width="40"/>
+</p>
+
+### Operating Systems
+<p align="left">
+ <img src="https://emojis.slackmojis.com/emojis/images/1551101669/5413/linux.png?1551101669" alt="Linux" width="40"/>
+  <img src="https://emojis.slackmojis.com/emojis/images/1504546221/2870/windows.png?1504546221" alt="Windows" width="40"/>
+</p>
+
