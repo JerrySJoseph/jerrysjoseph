@@ -60,10 +60,10 @@ I am a software developer with experience in professional **Android** and **Web 
  ## My Streaks
  <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=jerrysjoseph&" alt="jerrysjoseph" /></p>
  
- ## My Stats
+<!-- ## My Stats
 <p >
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jerrysjoseph&show_icons=true&locale=en&layout=compact" alt="jerrysjoseph" />
-&nbsp;<img  align="center" src="https://github-readme-stats.vercel.app/api?username=jerrysjoseph&show_icons=true&locale=en" alt="jerrysjoseph" /></p>
+&nbsp;<img  align="center" src="https://github-readme-stats.vercel.app/api?username=jerrysjoseph&show_icons=true&locale=en" alt="jerrysjoseph" /></p> -->
  
  ## My Interests
 I write regular blog posts, most of which you will find on my personal website [The Droid Hub](https://thedroidhub.com) and [medium.com](https://medium.com/@jerin.sebastian153).
