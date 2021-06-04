@@ -18,7 +18,7 @@ I am a software developer with experience in professional **Android** and **Web 
 
 - 👯 My latest project is [Helping Hands Android App](https://github.com/JerrySJoseph/Helping_Hands_Android_client)
 
-- 👨‍💻 A list of my projects is available at my [Interactive Resume](https://jerrysjoseph.github.io/#portfolio)
+- 👨‍💻 A list of my projects is available at my [portfolio](https://jerrysjoseph.github.io/#portfolio)
 
 - 📝 I regularly write articles on [The Droid Hub](https://thedroidhub.com/)
 
