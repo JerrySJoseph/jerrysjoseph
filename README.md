@@ -14,9 +14,9 @@ I am a software developer with experience in professional **Android** and **Web 
 ![Website](https://img.shields.io/website?down_color=red&down_message=not%20active&label=Interactive%20resume&style=plastic&up_color=green&up_message=Active&url=https%3A%2F%2Fjerrysjoseph.github.io%2F)
 
 
-- 🔭 I’m currently working on [JS Cloud SDK](https://github.com/JerrySJoseph/JS-Cloud-SDK-Android) and learning **Flutter.**
+- 🔭 I’m currently working on [JS Cloud](https://github.com/jscloud-org) and learning **Flutter.**
 
-- 👯 My latest project is [Helping Hands Android App](https://github.com/JerrySJoseph/Helping_Hands_Android_client)
+- 👯 My latest projects is [Mailman](https://github.com/jscloud-org/MailMan)
 
 - 👨‍💻 A list of my projects is available at my [portfolio](https://jerrysjoseph.github.io/#portfolio)
 
