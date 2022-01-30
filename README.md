@@ -18,7 +18,7 @@ I am a software developer with experience in professional **Web** and **Android*
 
 - 👯 My latest projects is [Mailman](https://github.com/jscloud-org/MailMan)
 
-- 👨‍💻 A list of my projects is available at my [portfolio](https://jerrysjoseph.github.io/#portfolio)
+- 👨‍💻 A list of my projects is available at my [portfolio](https://me.jscloud.in)
 
 - 📝 I regularly write articles on [The Droid Hub](https://thedroidhub.com/)
 
