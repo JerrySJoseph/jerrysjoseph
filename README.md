@@ -20,7 +20,7 @@ I am a software developer with experience in professional **Web** and **Android*
 
 - 👨‍💻 A list of my projects is available at my [portfolio](https://me.jscloud.in)
 
-- 📝 I regularly write articles on [The Droid Hub](https://thedroidhub.com/)
+- 📝 I regularly write articles on [The Droid Hub](https://thedroidhub.com/) (Down due to maintenance)
 
 - 💬 Ask me anything about **Android or Web development**
 
