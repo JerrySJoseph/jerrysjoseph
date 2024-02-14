@@ -1,7 +1,17 @@
 <p align="center"> <img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" alt="jerrysjoseph" /> </p>
 <h1 align="center">Hey 👋, I'm Jerry</h1>
 
-I am a software developer with experience in professional **Web** and **Android** application development. I am a developer of **5 android applications** published in Google play store, author of **4 open-source libraries** on Github, a successful freelancer with **20+ completed projects** and author of several articles on **React**, **Full stack development** and **Android**.
+👋 Hi there, I'm **Jerin Sebastian** - a passionate **Full Stack Developer** with a knack for building scalable and efficient web applications. With a Master's in Advanced Computer Science from the University of Sussex and a rich background in software development, I've honed my skills across a broad spectrum of technologies and frameworks.
+
+🔭 I currently work at Timewatch Plc in Brighton, United Kingdom, where I've made significant contributions to enhancing software development processes and improving system architecture. My expertise in Agile/Scrum methodologies, CI/CD pipelines, and microservices architecture has driven substantial improvements in customer satisfaction and project delivery times.
+
+💻 My technical arsenal includes JavaScript, TypeScript, Java, Python, React, Node.js, ASP.NET, and .NET Core, among others. I'm also skilled in cloud services like AWS, Google Cloud Platform, and Azure, and have a strong foundation in databases such as MySQL, PostgreSQL, MongoDB, and more.
+
+🌱 I'm constantly learning and staying updated with the latest in technology. My recent certifications in AWS Cloud Practitioner, AWS Deep Racer, and AWS EC2 Training underscore my commitment to mastering cloud technologies.
+
+👯 Collaboration is at the heart of what I do. My experience working as a freelancer and my involvement in community groups like the Google Developers Group and the Innovation Club at Lovely Professional University have sharpened my teamwork, leadership, and organizational skills.
+
+💬 Feel free to reach out to me for collaborations on projects that aim to make a difference or to simply connect and share ideas. Let's build something great together!
 
 
  ---
