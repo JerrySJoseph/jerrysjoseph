@@ -32,7 +32,7 @@
 
 - 📝 I regularly write articles on [The Droid Hub](https://thedroidhub.com/) (Down due to maintenance)
 
-- 💬 Ask me anything about **Android or Web development**
+- 💬 Ask me anything about **AI or Web development**
 
 - 📫 How to reach me **jerin.sebastian153@gmail.com**
 
