@@ -30,43 +30,49 @@
 
 - 👨‍💻 A list of my projects is available at my [portfolio](https://me.jscloud.in)
 
-- 📝 I regularly write articles on [The Droid Hub](https://thedroidhub.com/) (Down due to maintenance)
+- 📝 I regularly write articles on [JS Cloud Blogs](https://blog.jscloud.in/) (Down due to maintenance)
 
 - 💬 Ask me anything about **AI or Web development**
 
 - 📫 How to reach me **jerin.sebastian153@gmail.com**
 
-- 📄 Wanna Know more about my experience and work, check [here](https://jerrysjoseph.github.io/#resume)
+- 📄 Wanna Know more about my experience and work, check [here](https://me.jscloud.in)
 
 - ⚡ Fun fact **I am building my own J.A.R.V.I.S**
 
 
 
 ## What I Do 🤠
-
- ---
 <p>
-  <img height="200" align='left' src="https://www.monzo.com/static/images/blog/2017-09-29-android-engineers/dude.gif">
-</p>
- 
-### Build Android Apps 📱
-- 👍 I help startups and communities build their dream app. 
-- 🔭 I am a follower of **MVVM** architecture and try to build modular applications. 
-- ⚡ I have recently developed an interest in building **Android libraries** and **SDKs**. 
-- ☁️ A big fan of cloud systems like ☁️**AWS** and 🔥**Firebase**.
-- 👨‍💻 Trying to learn **Flutter** nowadays! 
- ---
- 
-<p>
-  <img height="150" align='right' src="https://i.pinimg.com/originals/f4/7f/d8/f47fd896add554744b4114d964b61b41.gif">
+  <img height="150" align="right" src="https://i.pinimg.com/originals/f4/7f/d8/f47fd896add554744b4114d964b61b41.gif">
 </p>
 
-### Create Web applications 💻
-- 🌐 Before switching to android, I was a 💻**Full-Stack developer**.
-- 👏 I build ⏰ realtime web applications and sophisticated 💼 backend systems using **Node.js** and **Express**. 
-- 🤓 An intermediate in **REACT** and **Next.js**.
+### Build Web Applications 💻
+- 🌐 Full-stack developer building real-world, production-grade web applications.
+- ⚡ I design and ship **real-time apps** and **scalable backend systems** using **Node.js** and **Express**.
+- ⚛️ I work with **React** and **Next.js** to build fast, modern, and maintainable user interfaces.
 
- ---
+### Backend & System Design 🧠
+- 🧩 I enjoy designing clean APIs, background jobs, and event-driven systems.
+- 🏗️ Focus on scalability, reliability, and performance from day one.
+- 🔐 Experience building authentication, authorization, and secure backend flows.
+
+### Frontend Engineering 🎨
+- 📐 I care about UI structure, state management, and predictable data flows.
+- 🚀 Build responsive, accessible interfaces with performance in mind.
+- 🧪 Comfortable integrating APIs and handling real-time updates in the UI.
+
+### Cloud & Dev Tooling ☁️
+- 🐳 Work with Docker and cloud platforms to deploy and run applications reliably.
+- 🔄 Familiar with CI/CD pipelines and automation for faster, safer releases.
+- 🛠️ I like building internal tools and scripts that improve developer productivity.
+
+### Always Learning 📚
+- 🤖 Exploring AI-powered features, automation, and smarter developer tooling.
+- 🧠 Constantly improving system design, code quality, and engineering best practices.
+- 🔍 Curious by nature—always experimenting, refactoring, and iterating.
+
+ 
  ## My Streaks
  <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=jerrysjoseph&" alt="jerrysjoseph" /></p>
  
@@ -76,9 +82,9 @@
 &nbsp;<img  align="center" src="https://github-readme-stats.vercel.app/api?username=jerrysjoseph&show_icons=true&locale=en" alt="jerrysjoseph" /></p> -->
  
  ## My Interests
-I write regular blog posts, most of which you will find on my personal website [The Droid Hub](https://thedroidhub.com) and [medium.com](https://medium.com/@jerin.sebastian153).
+I write regular blog posts, most of which you will find on my [personal blog](https://blog.jscloud.in).
 
-I usually write about new and emerging technologies in cloud and application development. I also like creating detailed tutorials on basics and advanced application development in android.
+I usually write about new and emerging technologies in cloud and application development. I also like creating detailed tutorials on basics and advanced application development practices.
 
 You can check out my latest articles and blog posts [here](https://thedroidhub.com/blog/).
  
