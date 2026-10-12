@@ -3,7 +3,7 @@
 
 👋 Hi there, I'm **Jerin Sebastian** - a passionate **Full Stack Developer** with a knack for building scalable and efficient web applications. With a Master's in Advanced Computer Science from the University of Sussex and a rich background in software development, I've honed my skills across a broad spectrum of technologies and frameworks.
 
-🔭 I currently work at Minimal X in London, United Kingdom, where I've made significant contributions to enhancing software development processes and improving system architecture. My expertise in Agile/Scrum methodologies, CI/CD pipelines, and microservices architecture has driven substantial improvements in customer satisfaction and project delivery times.
+🔭 I currently work as a Lead Software Engineer @ Microlise in London, United Kingdom, where I've made significant contributions to enhancing software development processes and improving system architecture. My expertise in Agile/Scrum methodologies, CI/CD pipelines, and microservices architecture has driven substantial improvements in customer satisfaction and project delivery times.
 
 💻 My technical arsenal includes JavaScript, TypeScript, Java, Python, React, Node.js, ASP.NET, and .NET Core, among others. I'm also skilled in cloud services like AWS, Google Cloud Platform, and Azure, and have a strong foundation in databases such as MySQL, PostgreSQL, MongoDB, and more.
 
